@@ -29,7 +29,7 @@ toc-title: "Sur cette page"
 
 ## Création d'une ressource - Fonctionnement recommandé
 
-**Choix libre de la ou des ressource(s) à créer. Dans toute la formation FOCUS, une seule peut être déposée par communauté (pas par personne), au 15 décembre 2023**
+**Choix libre de la ou des ressource(s) à créer. Dans toute la formation FOCUS, une seule peut être déposée par communauté (pas par personne).**
 
 **Ces documents ne sont utiles que si la communauté décide de déposer un document traitant de la CUA.**
 
